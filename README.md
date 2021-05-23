@@ -10,9 +10,9 @@ Also, we will try various machine learning algorithms on this data to predict th
 
 The datasets used for this projects are:
 
-#### A. Reddit news :
+#### A. Twitter data :
 
-Historical news headlines from Reddit News Channel. They are ranked by the reddit user's votes. 
+Tweets scrapped using Twitter API
 
 #### B. Stock market data :
 
